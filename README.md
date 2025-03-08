@@ -19,7 +19,7 @@
 - [hashicorp/terraform (GitHub)](https://github.com/hashicorp/terraform)  
 
 ### Model Deployment Automation  
-- [MLOps: Continuous delivery and automation pipelines](https://www.oreilly.com/library/view/introducing-mlops/9781492083290/)  
+- [MLOps: Continuous delivery and automation pipelines]([https://www.oreilly.com/library/view/introducing-mlops/9781492083290/](https://medium.com/@rajuhegde2006/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-093cd6e09fb3))  
 - [khuyentran1401/cicd-mlops-demo (GitHub)](https://github.com/khuyentran1401/cicd-mlops-demo)  
 
 ### AI-Driven App Deployment Automation  
