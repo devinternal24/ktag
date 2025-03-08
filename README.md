@@ -37,11 +37,9 @@
 ## 🎨 Frontend Development
 
 ### UI Development  
-- [Create React App — Hello World!](https://medium.com/@shubhamnagar234/create-react-app-hello-world-cb501aa9d9f1)
-- [Building a Symptom Checker with React](https://dev.to/abrahamlawson/building-a-symptom-checker-with-react-3m4l)  
+- [Create React App — Hello World!](https://medium.com/@shubhamnagar234/create-react-app-hello-world-cb501aa9d9f1) 
 
 ### Conversational UI  
-- [Building Conversational UI with React](https://reactjs.org/)  
 - [Building a Chatbot with React and Node.js](https://medium.com/rewrite-tech/build-your-own-fullstack-chatbot-with-react-and-node-js-a-step-by-step-guide-922b392bfbf2)  
 
 ### Speech-to-Text UI  
