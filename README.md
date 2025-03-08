@@ -42,10 +42,6 @@
 - [Integrating Chatbots with React Applications](https://medium.com/@michael.wanyoike/integrating-chatbots-with-react-applications-8c7596d6a058)  
 - [imonishkumar/Symptom-Checker-Chatbot (GitHub)](https://github.com/imonishkumar/Symptom-Checker-Chatbot)  
 
-### Data Visualization with Chart.js  
-- [Visualizing Data in React with Chart.js](https://blog.bitsrc.io/visualizing-data-in-react-with-chart-js-316f8b5d637f)  
-- [reactchartjs/react-chartjs-2 (GitHub)](https://github.com/reactchartjs/react-chartjs-2)  
-
 ### Conversational UI  
 - [Building a Chatbot with React and Node.js](https://blog.logrocket.com/building-a-chatbot-with-react-and-node-js/)  
 - [botui/botui (GitHub)](https://github.com/botui/botui)  
@@ -59,46 +55,28 @@
 ## 🏗 Backend Development
 
 ### REST API for ML Models  
-- [Deploying Machine Learning Models with Flask](https://testdriven.io/blog/deploying-machine-learning-models-with-flask/)  
-- [testdrivenio/flask-ml-deployment (GitHub)](https://github.com/testdrivenio/flask-ml-deployment)  
+- [Deploying Machine Learning Models with Flask](https://www.geeksforgeeks.org/deploy-machine-learning-model-using-flask/)  
+- [testdrivenio/flask-ml-deployment (GitHub)](https://www.geeksforgeeks.org/deploy-machine-learning-model-using-flask/)  
 
-### Scalable AI APIs  
-- [Building and Deploying FastAPI Applications with Docker](https://testdriven.io/blog/fastapi-docker-traefik/)  
-- [tiangolo/fastapi (GitHub)](https://github.com/tiangolo/fastapi)  
 
-### Database for AI Applications  
-- [Building a Healthcare Application with MongoDB](https://www.mongodb.com/blog/post/building-a-healthcare-application-with-mongodb)  
-- [mongodb/mongo (GitHub)](https://github.com/mongodb/mongo)  
 
 ### Integration with OpenAI GPT-3  
-- [How to Build a GPT-3 Chatbot with Python](https://realpython.com/gpt-3-chatbot-python/)  
+- [How to Build a GPT-3 Chatbot with Python](https://medium.com/@dwivedipiyush9754/building-a-chatbot-with-python-and-openai-gpt-3-6d1d07b127f1)  
 - [openai/openai-python (GitHub)](https://github.com/openai/openai-python)  
-
-### Event-Driven Architectures  
-- [Kong API Gateway: A Practical Overview](https://www.magalix.com/blog/kong-api-gateway-a-practical-overview)  
-- [Kong/kong (GitHub)](https://github.com/Kong/kong)  
 
 ---
 
 ## 🤖 MLOps
 
-### Model Training & Deployment  
-- [MLflow: An Open Platform to Manage the ML Lifecycle](https://databricks.com/blog/2018/06/05/mlflow-an-open-platform-to-manage-the-machine-learning-lifecycle.html)  
-- [mlflow/mlflow (GitHub)](https://github.com/mlflow/mlflow)  
-
 ### Experiment Tracking  
-- [Managing Machine Learning Experiments with MLflow](https://towardsdatascience.com/managing-machine-learning-experiments-with-mlflow-5b474d3e919a)  
+- [Managing Machine Learning Experiments with MLflow](https://medium.com/@avikumart_/machine-learning-experiment-tracking-using-mlflow-8bba10f8f475)
+- [MLflow Documentation](https://mlflow.org/docs/latest/index.html)
 - [mlflow/mlflow (GitHub)](https://github.com/mlflow/mlflow)  
 
 ### AI Model Fine-Tuning  
-- [Fine-Tuning Transformers: A Comprehensive Guide](https://huggingface.co/transformers/training.html)  
+- [Fine-Tuning Transformers: A Comprehensive Guide](https://huggingface.co/docs/transformers/en/training)
+- [Fine-Tuning Transformers: Techniques for Improving Model Performance](https://medium.com/@hassaanidrees7/fine-tuning-transformers-techniques-for-improving-model-performance-4b4353e8ba93) 
 - [huggingface/transformers (GitHub)](https://github.com/huggingface/transformers)  
 
-### Continuous AI Monitoring  
-- [Monitoring Machine Learning Models in Production](https://www.evidentlyai.com/blog/machine-learning-model-monitoring)  
-- [evidentlyai/evidently (GitHub)](https://github.com/evidentlyai/evidently)  
-
-### AI Governance  
-- [Responsible AI Principles and Practices](https://www.microsoft.com/en-us/ai/responsible-ai)  
 
 ---
