@@ -1,5 +1,7 @@
 # Resources for DevOps, Frontend, Backend, and MLOps Tasks in AI & ML
 
+# AI & ML Development Resources
+
 ## 📌 Table of Contents
 - [DevOps](#devops)
 - [Frontend Development](#frontend-development)
@@ -10,7 +12,12 @@
 
 ## 🛠 DevOps
 
+### Devops in Fullstack development
+- [Devops](https://www.guvi.in/blog/role-of-devops-in-full-stack-development/)
+
 ### CI/CD for ML Models  
+- [CI/CD for Machine Learning Using Azure DevOps](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-devops-machine-learning?view=azureml-api-2&tabs=arm)  
+- [CI/CD for ML Pipelines with Jenkins](https://skngrp.medium.com/how-to-build-ci-cd-pipeline-for-machine-learning-projects-using-jenkins-cd96f9b48515)  
 - [Implementing CI/CD Pipelines with GitHub Actions for MLOps](https://lo-victoria.com/implementing-cicd-pipelines-with-github-actions-for-mlops)  
 - [kingabzpro/CICD-for-Machine-Learning (GitHub)](https://github.com/kingabzpro/CICD-for-Machine-Learning)  
 
@@ -22,29 +29,20 @@
 - [MLOps: Continuous delivery and automation pipelines](https://medium.com/@rajuhegde2006/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-093cd6e09fb3)  
 - [khuyentran1401/cicd-mlops-demo (GitHub)](https://github.com/khuyentran1401/cicd-mlops-demo)  
 
-### AI-Driven App Deployment Automation  
-- [Automating AI Deployments with Jenkins and Kubernetes](https://www.redhat.com/en/blog/automating-ai-deployments-jenkins-and-kubernetes)  
-- [jenkinsci/kubernetes-operator (GitHub)](https://github.com/jenkinsci/kubernetes-operator)  
-
 ### Version Control for AI Models  
-- [Managing Machine Learning Models with DVC](https://dvc.org/doc/use-cases/versioning)  
-- [iterative/dvc (GitHub)](https://github.com/iterative/dvc)  
+- [Version Control for AI Models with GitHub Actions](https://medium.com/@DataCraft-Innovations/git-and-ai-using-git-for-machine-learning-models-versioning-5f6d14938e54)  
 
 ---
 
 ## 🎨 Frontend Development
 
-### Symptom Checker UI  
+### UI Development  
+- [Create React App — Hello World!](https://medium.com/@shubhamnagar234/create-react-app-hello-world-cb501aa9d9f1)
 - [Building a Symptom Checker with React](https://dev.to/abrahamlawson/building-a-symptom-checker-with-react-3m4l)  
-- [isaigm/symptom-checker (GitHub)](https://github.com/isaigm/symptom-checker)  
-
-### Chatbot Integration  
-- [Integrating Chatbots with React Applications](https://medium.com/@michael.wanyoike/integrating-chatbots-with-react-applications-8c7596d6a058)  
-- [imonishkumar/Symptom-Checker-Chatbot (GitHub)](https://github.com/imonishkumar/Symptom-Checker-Chatbot)  
 
 ### Conversational UI  
-- [Building a Chatbot with React and Node.js](https://blog.logrocket.com/building-a-chatbot-with-react-and-node-js/)  
-- [botui/botui (GitHub)](https://github.com/botui/botui)  
+- [Building Conversational UI with React](https://reactjs.org/)  
+- [Building a Chatbot with React and Node.js](https://medium.com/rewrite-tech/build-your-own-fullstack-chatbot-with-react-and-node-js-a-step-by-step-guide-922b392bfbf2)  
 
 ### Speech-to-Text UI  
 - [Building a Speech-to-Text App Using the Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API)  
@@ -55,9 +53,10 @@
 ## 🏗 Backend Development
 
 ### REST API for ML Models  
+- [Building ML APIs with FastAPI](https://fastapi.tiangolo.com/)  
+- [Building ML APIs with Flask](https://flask.palletsprojects.com/)  
 - [Deploying Machine Learning Models with Flask](https://www.geeksforgeeks.org/deploy-machine-learning-model-using-flask/)  
-- [testdrivenio/flask-ml-deployment (GitHub)](https://www.geeksforgeeks.org/deploy-machine-learning-model-using-flask/)  
-
+- [Introduction to Node.js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
 
 
 ### Integration with OpenAI GPT-3  
@@ -69,14 +68,12 @@
 ## 🤖 MLOps
 
 ### Experiment Tracking  
-- [Managing Machine Learning Experiments with MLflow](https://medium.com/@avikumart_/machine-learning-experiment-tracking-using-mlflow-8bba10f8f475)
-- [MLflow Documentation](https://mlflow.org/docs/latest/index.html)
+- [Managing Machine Learning Experiments with MLflow](https://medium.com/@avikumart_/machine-learning-experiment-tracking-using-mlflow-8bba10f8f475)  
+- [MLflow Documentation](https://mlflow.org/docs/latest/index.html)  
 - [mlflow/mlflow (GitHub)](https://github.com/mlflow/mlflow)  
 
 ### AI Model Fine-Tuning  
-- [Fine-Tuning Transformers: A Comprehensive Guide](https://huggingface.co/docs/transformers/en/training)
-- [Fine-Tuning Transformers: Techniques for Improving Model Performance](https://medium.com/@hassaanidrees7/fine-tuning-transformers-techniques-for-improving-model-performance-4b4353e8ba93) 
-- [huggingface/transformers (GitHub)](https://github.com/huggingface/transformers)  
-
-
----
+- [Fine-tuning AI Models with Hugging Face](https://huggingface.co/)  
+- [Fine-Tuning Transformers: A Comprehensive Guide](https://huggingface.co/docs/transformers/en/training)  
+- [Fine-Tuning Transformers: Techniques for Improving Model Performance](https://medium.com/@hassaanidrees7/fine-tuning-transformers-techniques-for-improving-model-performance-4b4353e8ba93)  
+- [huggingface/transformers (GitHub)](https://github.com/huggingface/transformers)
