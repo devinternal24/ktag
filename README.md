@@ -55,6 +55,8 @@
 - [Building ML APIs with Flask](https://flask.palletsprojects.com/)  
 - [Deploying Machine Learning Models with Flask](https://www.geeksforgeeks.org/deploy-machine-learning-model-using-flask/)  
 - [Introduction to Node.js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
+- [Node.js Hello world](https://www.scaler.com/topics/nodejs/node-js-hello-world/)
+- [CRUD App-Node.js](https://www.freecodecamp.org/news/create-crud-api-project/)
 
 
 ### Integration with OpenAI GPT-3  
